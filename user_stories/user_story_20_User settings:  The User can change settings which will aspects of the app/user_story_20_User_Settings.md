@@ -1,9 +1,9 @@
 Create more md files like this one as needed. Place them into the same folder 
 as this [user_stories folder](./)
 
-# User story title: e.g. Show current deals
+# User story title: User settings: 
+The User can change settings which will aspects of the app/program or change their details.
 
-Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
 
 ## Priority: 10 (e.g. latest for iteration-1)
 Any notes on priority go here. 
