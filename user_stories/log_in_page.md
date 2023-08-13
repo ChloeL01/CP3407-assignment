@@ -5,24 +5,18 @@ as this [user_stories folder](./)
 
 Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
 
-## Priority: 10 (e.g. latest for iteration-1)
-Any notes on priority go here. 
-Note you may have different priorities at different stages of you project.
-Again, keep all changes here for marking.
+## Priority: 10 
+It is very important for the user to be able to sign in to allow all of their data to be collated under a single user profile.
 
-## Estimation: e.g. 2 days
-Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Bob: 1 day (e.g. estimated before iteration-1)
-* Lisa: 2 days
-* Jack: 3 days
+## Estimation: 5 days 
 
-## Assumptions (if any):
+* Chloe: 3 days
+* Keziah: 5 days
+* Jess: 8 days
 
-## Description: e.g. The web page will show current deals to Orion's orbits users
-You need to keep all versions here so that your instructor/marker can see your changes easily. 
-In a real project, your older versions could be viewed via commits.
+## Assumptions: 
 
-Description-v1: e.g. The web site will show current deals to Orion's orbits users
+## Description: 
 
 ## Tasks, see chapter 4.
 
