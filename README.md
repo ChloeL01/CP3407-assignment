@@ -33,25 +33,38 @@ Checklist:
 
 
 
-### Iteration 1 [4-5 weeks], add your start and end dates 
+### Iteration 1 [4 weeks, week 6-9], 28th August - 23rd September
 
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+1. [Prototyping](./user_stories/prototype.md), priority 10, 5 days
+2. [Create database](./user_stories/create_database.md), priority 10, 8 days
+3. [Login page](./user_stories/log_in_page.md), priority 10, 5 days
+4. [Signup page](./user_stories/sign_up.md), priority 10, 5 days
+5. [Hire item](./user_stories/hire_item.md), priority 10, 2 days
+6. [View details of item](./user_stories/view_details_of_item.md), priority 20, 2 days
+7. [List item to hire](./user_stories/list_item_to_hire.md), priority 10, 5 days
 
-Total: YY days
+Total: 32 days
 
 
-### Iteration 2 [4-5 weeks], add your start and end dates
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+### Iteration 2 [4 weeks, week 10-13], 2nd October - 27th October
+1. [Search for item](./user_stories/search_for_thing.md), priority 20, 3 days 
+2. [Search by dates](./user_stories/search_by_dates.md), priority 20, 2 days
+3. [Filter search](./user_stories/filter_search.md), priority 30, 1 day
+4. [Review/Rating system](./user_stories/review_system.md), priority 2, 2 days
+5. [View previously rented items](./user_stories/view_previously_rented_items.md), priority 40, 3 days 
+6. [Current rented items](./user_stories/view_currently_rented_items.md), priority 30, 1 day
+7. [Pay owner](./user_stories/pay_for_item.md), priority 10, 2 days
+8. [Accessibility hire option](./user_stories/accessibility_hire_options.md), priority 20, 2 days 
+9. [User profile](./user_stories/user_profile.md), priority 20, 2 days 
 
-Total: YY days
+Total: 18 days
 
 ### Not enough time/developers: 
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+1. [Wishlist](./user_stories/wishlist.md), priority 40, 3 days 
+2. [Share item](./user_stories/share_item.md), priority 50, 1 day
+3. [User settings](./user_stories/user_settings.md), priority 50, 2 days
 
-Total: YY days
+Total: 6 days
 
 # Actual iterations
 1. [Iteration-1](./iteration_1.md)
