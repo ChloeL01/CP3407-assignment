@@ -1,9 +1,5 @@
-Create more md files like this one as needed. Place them into the same folder 
-as this [user_stories folder](./)
 
-# User story title: e.g. Show current deals
-
-Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
+# User story title: User settings
 
 ## Priority: 50
 
@@ -15,11 +11,9 @@ Keep any other version here as well, e.g. Display current deals, Let user to cli
 
 ## Assumptions:
 
-## Description: e.g. The web page will show current deals to Orion's orbits users
-You need to keep all versions here so that your instructor/marker can see your changes easily. 
-In a real project, your older versions could be viewed via commits.
+## Description: 
 
-Description-v1: e.g. The web site will show current deals to Orion's orbits users
+Description-v1: The User can change settings which will aspects of the app/program or change their details.
 
 ## Tasks, see chapter 4.
 

@@ -1,7 +1,5 @@
-Create more md files like this one as needed. Place them into the same folder 
-as this [user_stories folder](./)
 
-# User story title: e.g. Show current deals
+# User story title: List item to hire
 
 Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
 
@@ -19,10 +17,8 @@ Keep any other version here as well, e.g. Display current deals, Let user to cli
 *Is a page that collects data from the user and stores it. 
 
 ## Description: e.g. The web page will show current deals to Orion's orbits users
-You need to keep all versions here so that your instructor/marker can see your changes easily. 
-In a real project, your older versions could be viewed via commits.
 
-Description-v1: e.g. The web site will show current deals to Orion's orbits users
+Description-v1: The user can choose to list an item that can be hired
 
 ## Tasks, see chapter 4.
 

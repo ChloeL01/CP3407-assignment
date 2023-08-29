@@ -1,27 +1,21 @@
-Create more md files like this one as needed. Place them into the same folder 
-as this [user_stories folder](./)
-
-# User story title: e.g. Show current deals
+# User story title: Communication
 
 Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
 
 ## Priority: 30
 
-## Estimation: 
+## Estimation: 8
 
-* Chloe:
-* Keziah: 
-* Jess: 
+* Chloe: 8
+* Keziah: 8
+* Jess:  8
 
 ## Assumptions:
 
 *
 
-## Description: e.g. The web page will show current deals to Orion's orbits users
-You need to keep all versions here so that your instructor/marker can see your changes easily. 
-In a real project, your older versions could be viewed via commits.
-
-Description-v1: e.g. The web site will show current deals to Orion's orbits users
+## Description: 
+Description-v1: The renter and the owner of the item should be able to communicate with each other
 
 ## Tasks, see chapter 4.
 

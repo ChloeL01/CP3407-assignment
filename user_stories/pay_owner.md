@@ -1,19 +1,18 @@
 
-# User story title: Search for thing
+# User story title: Pay owner
 
-## Priority: 20 
+## Priority: 10 
 
-## Estimation: 3 days
+## Estimation: 2 days 
 
-* Chloe: 3 days
-* Keziah: 2 days
-* Jess: 3 days
+* Chloe: 2 days
+* Keziah: 3 days
+* Jess: 2 days
 
-## Assumptions:
+## Assumptions: 
 
 ## Description: 
-
-Description-v1: The user should be able to search for a thing they wish to rent
+Description-v1: The user will be able to select how they will pay the owner on the website/app / Connect people to how they want to pay for item
 
 ## Tasks, see chapter 4.
 

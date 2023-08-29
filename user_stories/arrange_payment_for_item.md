@@ -1,5 +1,3 @@
-Create more md files like this one as needed. Place them into the same folder 
-as this [user_stories folder](./)
 
 # User story title: e.g. Show current deals
 
@@ -9,7 +7,7 @@ Keep any other version here as well, e.g. Display current deals, Let user to cli
 
 ## Estimation: 3 days
 
-* Chhloe: 3 days
+* Chloe: 3 days
 * Keziah: 3 days
 * Jess: 3 days
 

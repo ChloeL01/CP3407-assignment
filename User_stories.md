@@ -7,6 +7,8 @@ Priority 10
 * List item to hire: The user can choose to list an item that can be hired
 * Pay owner: The user will be able to select how they will pay the owner on the website/app
 * Pay for item: The user should be able to pay for the item they are renting / the renter should receive the payment
+* Prototype: Create a prototype of the overall app design
+* Create database: Create a database to record users and user info
 
 Priority 20
 * Search for thing: The user should be able to search for a thing they wish to rent

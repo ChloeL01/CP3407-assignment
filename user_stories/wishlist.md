@@ -1,9 +1,6 @@
-Create more md files like this one as needed. Place them into the same folder 
-as this [user_stories folder](./)
 
-# User story title: e.g. Show current deals
+# User story title: Wishlist
 
-Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
 
 ## Priority: 40
 
@@ -14,13 +11,11 @@ Keep any other version here as well, e.g. Display current deals, Let user to cli
 * Jess: 3 days
 
 ## Assumptions (if any):
-* Will also include marking wishlisted items when they appeaar in the search page.
+* Will also include marking wishlisted items when they appear in the search page.
 
-## Description: e.g. The web page will show current deals to Orion's orbits users
-You need to keep all versions here so that your instructor/marker can see your changes easily. 
-In a real project, your older versions could be viewed via commits.
+## Description: 
 
-Description-v1: e.g. The web site will show current deals to Orion's orbits users
+Description-v1: User can mark an item that they would like to rent in the future to view on their profile page
 
 ## Tasks, see chapter 4.
 

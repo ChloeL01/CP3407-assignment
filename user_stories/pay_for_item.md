@@ -1,17 +1,12 @@
-Create more md files like this one as needed. Place them into the same folder 
-as this [user_stories folder](./)
 
-# User story title: e.g. Show current deals
+# User story title: Pay for item
 
-Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
+* this user story was removed later as it was essentially the same as [Pay Owner](pay_owner.md)
 
-## Priority: 10 (e.g. latest for iteration-1)
-Any notes on priority go here. 
-Note you may have different priorities at different stages of you project.
-Again, keep all changes here for marking.
+## Priority: 10 
 
 ## Estimation: e.g. 2 days
-Any notes on estimation go here. Keep your planning poker game numbers. For example
+
 * Bob: 1 day (e.g. estimated before iteration-1)
 * Lisa: 2 days
 * Jack: 3 days
@@ -19,10 +14,8 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 ## Assumptions (if any):
 
 ## Description: e.g. The web page will show current deals to Orion's orbits users
-You need to keep all versions here so that your instructor/marker can see your changes easily. 
-In a real project, your older versions could be viewed via commits.
 
-Description-v1: e.g. The web site will show current deals to Orion's orbits users
+Description-v1: The user should be able to pay for the item they are renting / the renter should receive the payment
 
 ## Tasks, see chapter 4.
 

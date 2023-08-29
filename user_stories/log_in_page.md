@@ -1,9 +1,5 @@
-Create more md files like this one as needed. Place them into the same folder 
-as this [user_stories folder](./)
 
-# User story title: e.g. Show current deals
-
-Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
+# User story title: Login page
 
 ## Priority: 10 
 It is very important for the user to be able to sign in to allow all of their data to be collated under a single user profile.
@@ -17,6 +13,7 @@ It is very important for the user to be able to sign in to allow all of their da
 ## Assumptions: 
 
 ## Description: 
+Description-v1: The user can log in to save their details.
 
 ## Tasks, see chapter 4.
 
