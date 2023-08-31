@@ -42,8 +42,9 @@ Checklist:
 5. [Hire item](./user_stories/hire_item.md), priority 10, 2 days
 6. [View details of item](./user_stories/view_details_of_item.md), priority 20, 2 days
 7. [List item to hire](./user_stories/list_item_to_hire.md), priority 10, 5 days
+8. [Landing/home page](./user_stories/Landing-Home_page.md), priority 10, 3 days
 
-Total: 32 days
+Total: 35 days
 
 
 ### Iteration 2 [4 weeks, week 10-13], 2nd October - 27th October

@@ -9,6 +9,7 @@ Priority 10
 * Pay for item: The user should be able to pay for the item they are renting / the renter should receive the payment
 * Prototype: Create a prototype of the overall app design
 * Create database: Create a database to record users and user info
+* Landing/Home page: A user needs to navigate to different pages
 
 Priority 20
 * Search for thing: The user should be able to search for a thing they wish to rent
