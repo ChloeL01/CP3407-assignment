@@ -17,17 +17,15 @@ Description-v1: A user needs to navigate to different pages
 
 ## Tasks, see chapter 4.
 
-1. Task 1, Estimation XX days
-2. ...
+1. Display sample items from database, Estimation 1 day
+2. Create navigation bar (icons too), Estimation 2 days
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+* Home page low-fi version drawn on miro which can be accessed from the link in the README.md
+* ![image](/images/home_page.png)
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+* Iteration 1
+* ![image](/images/home_page_finished.png)
 
