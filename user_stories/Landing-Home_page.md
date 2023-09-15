@@ -27,5 +27,5 @@ Description-v1: A user needs to navigate to different pages
 
 # Completed:
 * Iteration 1
-* ![image](/images/home_page_finished.png)
+* ![image](/images/home_page_finished.png) 
 
