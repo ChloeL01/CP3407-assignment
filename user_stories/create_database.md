@@ -18,18 +18,24 @@ Keep any other version here as well, e.g. Display current deals, Let user to cli
 Description-v1: Create a database to record users and user info
 
 ## Tasks, see chapter 4.
+Initial tasks when using ROOM database
+1. User Data entry, Estimation 1 day
+2. User Data access object (DAO), Estimation 1 day
+3. User database, Estimation 1 day
+4. Item Data entry, Estimation 1 day
+5. Item Data access object (DAO), Estimation 1 day
+6. Items database, Estimation 1 day
 
-1. Task 1, Estimation XX days
-2. ...
+We soon discovered that storing and image was too difficult so we changed to using Firebase
+NEW TASKS
+1. User database, Estimation 3 days
+2. Doggo database, Estimation 3 days
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+* No low-fi UI design as it's a database.
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+Example of a dog document stored in the firestore database
+![image](/images/database.png)
 

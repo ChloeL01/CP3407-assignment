@@ -22,10 +22,10 @@ Description-v1: A user needs to navigate to different pages
 
 
 # UI Design:
-* Home page low-fi version drawn on miro which can be accessed from the link in the README.md
-* ![image](/images/home_page.png)
+* Low-fi version drawn on miro. Miro can be accessed from the link in the README.md
+![image](/images/home_page.png)
 
 # Completed:
 * Iteration 1
-* ![image](/images/home_page_finished.png) 
+![image](/images/home_page_finished.png) 
 
