@@ -5,6 +5,7 @@ How to edit this:
 # cp3407-Assignment Team: J-A-C-K 
 
 This is the project assignment for CP3407 - team J-A-C-K. 
+* [App](https://github.com/ChloeL01/CP3407---Assignment) android project
 * [Miro board](https://miro.com/app/board/uXjVMvIweeY=/) for brainstorming 
 * [Kanban board](https://github.com/users/ChloeL01/projects/1/views/1) for keeping track of progress
 
@@ -57,10 +58,16 @@ Total: 35 days
 7. [Pay owner](./user_stories/pay_for_item.md), priority 10, 2 days
 8. [Accessibility hire option](./user_stories/accessibility_hire_options.md), priority 20, 2 days 
 9. [User profile](./user_stories/user_profile.md), priority 20, 2 days 
+10. [Wishlist](./user_stories/wishlist.md), priority 40, 3 days 
+11. [Share item](./user_stories/share_item.md), priority 50, 1 day
+12. [User settings](./user_stories/user_settings.md), priority 50, 2 days
 
-Total: 18 days
+Overflow from Iteration 1
+1. [Hire item](./user_stories/hire_item.md), priority 10, 2 days]
 
-### Not enough time/developers: 
+Total: 26 days
+
+### Not enough time/developers for Iteration 1 - later added to Iteration 2: 
 1. [Wishlist](./user_stories/wishlist.md), priority 40, 3 days 
 2. [Share item](./user_stories/share_item.md), priority 50, 1 day
 3. [User settings](./user_stories/user_settings.md), priority 50, 2 days

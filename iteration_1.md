@@ -19,12 +19,24 @@ User stories or tasks (see chapter 4):
 8. [Landing/home page](./user_stories/Landing-Home_page.md), priority 10, 3 days
 
 In progress:
-* Task-2 (developer name or initials), date started
-* ...
+* Task-1 (JG, KF, CL), 23/08/23
+* Task-2 (CL), 04/09/23
+* Task-3 (KF), --
+* Task-4 (KF), --
+* Task-5 (AD), (Carry over to Iteration 2)
+* Task-6 (CL), 10/09/23
+* Task-7 (JG), --
+* Task-8 (CL), 10/09/23 
 
 Completed:
-* Task-3 (developer name or initials), date completed
-* ...
+* Task-1 (JG, KF, CL), 24/08/23
+* Task-2 (CL), 18/09/23
+* Task-3 (KF), --
+* Task-4 (KF), --
+* Task-5 (AD), (Carry over to Iteration 2)
+* Task-6 (CL), 15/09/23
+* Task-7 (JG), --
+* Task-8 (CL), 15/09/23
 
 ### Burn Down for iteration-1 (see chapter 4):
 Update this at least once per week

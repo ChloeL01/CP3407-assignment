@@ -1,29 +1,62 @@
-# Actual iteration-2 board, (see chapters 3 and 4), add your start and end dates 
+# Actual iteration-2 board, (see chapters 3 and 4), 2nd October - 27th October
 
 Checklist: 
 1. github entry timestamps
 2. User stories are correct: see p39
 
-* Assumed Velocity FROM iteration-1: ?? 
-* Number of developers: ??
-* Total estimated amount of work: YY days
+* Assumed Velocity FROM iteration-1: 0.6
+* Number of developers: 4
+* Total estimated amount of work: 48 days
 
-User stories or tasks (see chapter 4):
-1. [user story or task title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+### Iteration 2 [4 weeks, week 10-13], 2nd October - 27th October
+1. [Search for item](./user_stories/search_for_thing.md), priority 20, 3 days 
+2. [Search by dates](./user_stories/search_by_dates.md), priority 20, 2 days
+3. [Filter search](./user_stories/filter_search.md), priority 30, 1 day
+4. [Review/Rating system](./user_stories/review_system.md), priority 2, 2 days
+5. [View previously rented items](./user_stories/view_previously_rented_items.md), priority 40, 3 days 
+6. [Current rented items](./user_stories/view_currently_rented_items.md), priority 30, 1 day
+7. [Pay owner](./user_stories/pay_for_item.md), priority 10, 2 days
+8. ~~[Accessibility hire option](./user_stories/accessibility_hire_options.md), priority 20, 2 days~~ -not needed anymore
+9. [User profile](./user_stories/user_profile.md), priority 20, 2 days 
+10. [Wishlist](./user_stories/wishlist.md), priority 40, 3 days 
+11. [Share item](./user_stories/share_item.md), priority 50, 1 day
+12. [User settings](./user_stories/user_settings.md), priority 50, 2 days
+
+Overflow from Iteration 1
+13. [Hire item](./user_stories/hire_item.md), priority 10, 2 days]
 
 In progress:
-* Task-2 (developer name or initials), date started
-* ...
+* Task-1 (CL), 7/10/23
+* Task-2 (CL), --
+* Task-3 (CL), 7/10/23
+* Task-4 (JG), --
+* Task-5 (KF), --
+* Task-6 (KF), --
+* Task-7 (AD), --
+* Task-9 (JG), --
+* Task-10 (JG), --
+* Task-11 (KF), --
+* Task-12 (JG), --
+* Task-13 (AD), (overflow from Iteration 1) --
 
 Completed:
-* Task-3 (developer name or initials), date completed
-* ...
+* Task-1 (CL), 8/10/23
+* Task-2 (CL), --
+* Task-3 (CL), 8/10/23
+* Task-4 (JG), --
+* Task-5 (KF), --
+* Task-6 (KF), --
+* Task-7 (AD), --
+* Task-9 (JG), --
+* Task-10 (JG), --
+* Task-11 (KF), --
+* Task-12 (JG), --
+* Task-13 (AD), (overflow from Iteration 1) --
 
 ### Burn Down for iteration-2 (see chapter 4):
 Update this at least once per week
-* 4 weeks left, xx days of estimated amount of work 
+* 4 weeks left, 22 days of estimated amount of work 
+* 3 weeks left, xx days
 * 2 weeks left, xx days
 * 1 weeks left, xx days
-* 0 weeks left, xx days
 * Actual Velocity: ?? 
