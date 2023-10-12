@@ -35,7 +35,7 @@ Completed:
 * Task-4 (KF), --
 * Task-5 (AD), (Carry over to Iteration 2)
 * Task-6 (CL), 15/09/23
-* Task-7 (JG), --
+* Task-7 (JG), 26/10/23
 * Task-8 (CL), 15/09/23
 
 ### Burn Down for iteration-1 (see chapter 4):
