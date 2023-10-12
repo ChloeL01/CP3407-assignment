@@ -25,7 +25,7 @@ In progress:
 * Task-4 (KF), --
 * Task-5 (AD), (Carry over to Iteration 2)
 * Task-6 (CL), 10/09/23
-* Task-7 (JG), --
+* Task-7 (JG), 26/10/23
 * Task-8 (CL), 10/09/23 
 
 Completed:
