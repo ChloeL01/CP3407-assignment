@@ -1,5 +1,5 @@
 
-# User story title: List item to hire
+# User story title: List dog to hire
 
 Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
 
@@ -32,8 +32,12 @@ Description-v1: The user can choose to list an item that can be hired
 * Low-fi version drawn on miro. Miro can be accessed from the link in the README.md
 ![image](/images/List_item_to_hire.png)
 
+
+
 # Completed:
 * (New, not in the textbook) 
-* Insert screenshots of completed. 
+* Insert screenshots of completed.
+* Iteration 1 version developed. 
+![image](/images/hireoutdogimage.png)
 * If you have multiple versions (changes between iteractions), show them all.
 
