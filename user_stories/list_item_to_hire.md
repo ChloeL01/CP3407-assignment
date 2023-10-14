@@ -29,7 +29,7 @@ Description-v1: The user can choose to list an item that can be hired
 
 
 # UI Design:
-* Low-fi version drawn on miro. Miro can be accessed from the link in the README.md
+Low-fi version drawn on miro. Miro can be accessed from the link in the README.md <br /><br />
 ![image](/images/List_item_to_hire.png)
 
 
@@ -37,7 +37,11 @@ Description-v1: The user can choose to list an item that can be hired
 # Completed:
 * (New, not in the textbook) 
 * Insert screenshots of completed.
-* Iteration 1 version developed. 
+
+## Iteration 1
+Initial layout developed. UI simplified for ease of use for the user, and mirrors similar layouts from exisiting AAA marketplace/rental applications. <br /><br />
 ![image](/images/hireoutdogimage.png)
+
+
 * If you have multiple versions (changes between iteractions), show them all.
 
