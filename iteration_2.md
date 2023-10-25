@@ -29,28 +29,28 @@ In progress:
 * Task-1 (CL), 7/10/23
 * Task-2 (CL), --
 * Task-3 (CL), 7/10/23
-* Task-4 (JG), --
+* Task-4 (JG), 16/10/23
 * Task-5 (KF), --
 * Task-6 (KF), --
 * Task-7 (AD), --
-* Task-9 (JG), --
+* Task-9 (JG), 1/10/23
 * Task-10 (JG), --
 * Task-11 (KF), --
-* Task-12 (JG), --
+* Task-12 (JG), 14/10/23
 * Task-13 (AD), (overflow from Iteration 1) --
 
 Completed:
 * Task-1 (CL), 8/10/23
 * Task-2 (CL), --
 * Task-3 (CL), 8/10/23
-* Task-4 (JG), --
+* Task-4 (JG), 25/10/23, 
 * Task-5 (KF), --
 * Task-6 (KF), --
 * Task-7 (AD), --
-* Task-9 (JG), --
-* Task-10 (JG), --
+* Task-9 (JG), 17/10/23
+* Task-10 (JG), Overflow to next iteration 
 * Task-11 (KF), --
-* Task-12 (JG), --
+* Task-12 (JG), 17/10/23
 * Task-13 (AD), (overflow from Iteration 1) --
 
 ### Burn Down for iteration-2 (see chapter 4):
