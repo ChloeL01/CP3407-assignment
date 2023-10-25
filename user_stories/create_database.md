@@ -39,3 +39,5 @@ NEW TASKS
 Example of a dog document stored in the firestore database
 ![image](/images/database.png)
 
+Later in Iteration 2 we found that the database needed to be updated so that the current user could be tracked. 
+![image](/images/database.png)
