@@ -21,8 +21,8 @@ User stories or tasks (see chapter 4):
 In progress:
 * Task-1 (JG, KF, CL), 23/08/23
 * Task-2 (CL), 04/09/23
-* Task-3 (KF), --
-* Task-4 (KF), --
+* Task-3 (KF), 11/09/23
+* Task-4 (KF), 25/09/23
 * Task-5 (AD), (Carry over to Iteration 2)
 * Task-6 (CL), 10/09/23
 * Task-7 (JG), 26/10/23
@@ -31,8 +31,8 @@ In progress:
 Completed:
 * Task-1 (JG, KF, CL), 24/08/23
 * Task-2 (CL), 18/09/23
-* Task-3 (KF), --
-* Task-4 (KF), --
+* Task-3 (KF), 25/09/23
+* Task-4 (KF), 29/09/23
 * Task-5 (AD), (Carry over to Iteration 2)
 * Task-6 (CL), 15/09/23
 * Task-7 (JG), 26/10/23
@@ -41,7 +41,8 @@ Completed:
 ### Burn Down for iteration-1 (see chapter 4):
 Update this at least once per week
 * 4 weeks left, 35 days of estimated amount of work 
-* 3 weeks left, xx days
-* 2 weeks left, xx days
-* 1 weeks left, xx days
+* 3 weeks left, 30 days
+* 2 weeks left, 25 days
+* 1 weeks left, 17 days
+* 0 weeks left,  2 days (extra week with lecture recess)
 * Actual Velocity: ?? 

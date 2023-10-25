@@ -24,7 +24,9 @@ Description-v1: The user can select an item from the search page and view detail
 
 # UI Design:
 * Low-fi version drawn on miro. Miro can be accessed from the link in the README.md
+
 ![image](/images/View_item_details.png)
 
 # Completed:
+
 ![image](/images/view_item_details_finished.png)

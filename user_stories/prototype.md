@@ -17,17 +17,15 @@ Description-v1: Create basic prototype of overall design of app
 
 ## Tasks, see chapter 4.
 
-1. Task 1, Estimation XX days
-2. ...
+1. Design rough prototype for each page, Estimation 5 days
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+* The below images show a broad overview of the rough prototype. To view it in its entirety, please vist the [Miro board](https://miro.com/app/board/uXjVMvIweeY=/?share_link_id=843874031396)
+
+![image](/images/prototype.png) 
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+
+![image](/images/Finished%20prototype.png) 
 

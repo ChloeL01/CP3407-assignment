@@ -1,4 +1,4 @@
-# Actual iteration-2 board, (see chapters 3 and 4), 2nd October - 27th October
+# Actual iteration-2 board, (see chapters 3 and 4), 2nd October - 27th October [week 10-13]
 
 Checklist: 
 1. github entry timestamps
@@ -27,36 +27,37 @@ Overflow from Iteration 1
 
 In progress:
 * Task-1 (CL), 7/10/23
-* Task-2 (CL), --
+* Task-2 (CL), 17/11/23
 * Task-3 (CL), 7/10/23
 * Task-4 (JG), 16/10/23
-* Task-5 (KF), --
-* Task-6 (KF), --
-* Task-7 (AD), --
+* Task-5 (KF), 13/10/23
+* Task-6 (KF), 13/10/23
+* Task-7 (AD), 18/10/23
 * Task-9 (JG), 1/10/23
 * Task-10 (JG), --
-* Task-11 (KF), --
+* Task-11 (CL), 23/10/23
 * Task-12 (JG), 14/10/23
-* Task-13 (AD), (overflow from Iteration 1) --
+* Task-13 (AD), (overflow from Iteration 1) 
 
 Completed:
 * Task-1 (CL), 8/10/23
-* Task-2 (CL), --
+* Task-2 (CL), 23/10/23
 * Task-3 (CL), 8/10/23
-* Task-4 (JG), 25/10/23, 
-* Task-5 (KF), --
-* Task-6 (KF), --
-* Task-7 (AD), --
+* Task-4 (JG), 25/10/23
+* Task-5 (KF), 25/10/23
+* Task-6 (KF), 25/10/23
+* Task-7 (AD), 25/10/23
 * Task-9 (JG), 17/10/23
 * Task-10 (JG), Overflow to next iteration 
-* Task-11 (KF), --
+* Task-11 (CL), 24/10/23
 * Task-12 (JG), 17/10/23
-* Task-13 (AD), (overflow from Iteration 1) --
+* Task-13 (AD), (overflow from Iteration 1) 25/10/23
 
 ### Burn Down for iteration-2 (see chapter 4):
 Update this at least once per week
 * 4 weeks left, 22 days of estimated amount of work 
-* 3 weeks left, xx days
-* 2 weeks left, xx days
-* 1 weeks left, xx days
+* 3 weeks left, 17 days
+* 2 weeks left, 13 days
+* 1 weeks left,  5 days
+* 0 weeks left,  3 days
 * Actual Velocity: ?? 

@@ -1,7 +1,6 @@
 
 # User story title: Filter search
 
-Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
 
 ## Priority: 30
 
@@ -18,18 +17,17 @@ Keep any other version here as well, e.g. Display current deals, Let user to cli
 
 Description-v1: User should be able to apply a filter to a search by factors including price and accessibility
 
+Description-v2: User should be able to apply a filter to a display items that meet that filter
+
 ## Tasks, see chapter 4.
 
-1. Task 1, Estimation XX days
-2. ...
+1. Update UI to display refined search, Estimation 1/2 day
+2. Drop down spinner for relevant filters, Estimation 1/2 day
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+* This did not have a low-fi design as it was simply a dropdown spinner
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+
+![image](/images/filter_search_finish.png) 
