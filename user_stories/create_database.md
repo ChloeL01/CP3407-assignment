@@ -40,5 +40,4 @@ Example of a dog document stored in the firestore database
 ![image](/images/database.png)
 
 Later in Iteration 2 we found that the database needed to be updated so that the current user could be tracked. 
-Note: not sure why the image isn't working
 ![image](images/Firebase_Authentication_database.png)
