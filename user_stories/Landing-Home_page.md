@@ -31,3 +31,7 @@ Description-v1: A user needs to navigate to different pages
 
 ![image](/images/home_page_finished.png) 
 
+* Iteration 2
+
+![image](/images/home_page_updated.png) 
+

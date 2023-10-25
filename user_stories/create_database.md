@@ -26,7 +26,8 @@ Initial tasks when using ROOM database
 5. Item Data access object (DAO), Estimation 1 day
 6. Items database, Estimation 1 day
 
-We soon discovered that storing and image was too difficult so we changed to using Firebase
+_**We soon discovered that storing and image was too difficult so we changed to using Firebase**_
+
 NEW TASKS
 1. User database, Estimation 3 days
 2. Doggo database, Estimation 3 days

@@ -28,5 +28,10 @@ Description-v1: The user can select an item from the search page and view detail
 ![image](/images/View_item_details.png)
 
 # Completed:
+* Iteration 1
 
 ![image](/images/view_item_details_finished.png)
+
+* Iteration 2
+
+![image](/images/updated_doggo_info_page.png)

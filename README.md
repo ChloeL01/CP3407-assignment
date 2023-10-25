@@ -56,7 +56,8 @@ Total: 35 days
 5. [View previously rented items](./user_stories/view_previously_rented_items.md), priority 40, 3 days 
 6. [Current rented items](./user_stories/view_currently_rented_items.md), priority 30, 1 day
 7. [Pay owner](./user_stories/pay_for_item.md), priority 10, 2 days
-~~8. [Accessibility hire option](./user_stories/accessibility_hire_options.md), priority 20, 2 days~~ -not needed anymore
+~~
+8. [Accessibility hire option](./user_stories/accessibility_hire_options.md), priority 20, 2 days~~ -not needed anymore
 9. [User profile](./user_stories/user_profile.md), priority 20, 2 days 
 10. [Wishlist](./user_stories/wishlist.md), priority 40, 3 days 
 11. [Share item](./user_stories/share_item.md), priority 50, 1 day
@@ -71,11 +72,13 @@ Total: 26 days
 1. [Wishlist](./user_stories/wishlist.md), priority 40, 3 days 
 2. [Share item](./user_stories/share_item.md), priority 50, 1 day
 3. [User settings](./user_stories/user_settings.md), priority 50, 2 days
+4. [Communication](./user_stories/communication.md), priority 30, 8 days
 
 Total: 6 days
 
 ### Not enough time/developers for Iteration 2:
 1. [Wishlist](./user_stories/wishlist.md), priority 40, 3 days 
+2. [Communication](./user_stories/communication.md), priority 30, 8 days
 
 
 # Actual iterations

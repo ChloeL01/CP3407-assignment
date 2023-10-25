@@ -42,6 +42,6 @@ Low-fi version drawn on miro. Miro can be accessed from the link in the README.m
 Initial layout developed. UI simplified for ease of use for the user, and mirrors similar layouts from exisiting AAA marketplace/rental applications. <br /><br />
 ![image](/images/hireoutdogimage.png)
 
-
-* If you have multiple versions (changes between iteractions), show them all.
+## Iteration 2
+![image](/images/hire_out_doggo_update.png)
 
