@@ -35,9 +35,13 @@ Description-v1: The user should be able to edit/update their profile
 
 
 # Completed:
+![image](/images/profile_page_final.png)
+![image](/images/change_email_final.png)
+![image](/images/change_mobile_final.png)
+![image](/images/change_password_final.png)
+![image](/images/change_payment_details_final.png)
 
 ## Iteration 2
-
 ![image](/images/profile_page_app.png)
 ![image](/images/change_email_app.png)
 
