@@ -41,9 +41,10 @@ Description-v1: The user should be able to edit/update their profile
 ![image](/images/profile_page_app.png)
 ![image](/images/change_email_app.png)
 
-
 ![image](/images/change_password_page_app.png)
 ![image](/images/change_payment_details_app.png)
+
+![image](/images/change_mobile_app.png)
 
 ## Key features
 * User can see their profile at on one page.
