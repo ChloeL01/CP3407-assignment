@@ -6,7 +6,6 @@ This is the project assignment for CP3407 - team J-A-C-K.
 * [Miro board](https://miro.com/app/board/uXjVMvIweeY=/?share_link_id=43328664625) for brainstorming 
 * [Kanban board](https://github.com/users/ChloeL01/projects/1/views/1) for keeping track of progress
 
-The following is the list of items, which are required to be completed.
 
 ## How to submit [You may delete this before submitting]
 
@@ -15,7 +14,6 @@ The following is the list of items, which are required to be completed.
 
 ## Team
 
-It is recommended to complete this assignment in a group of 2-4 students.
 1. Jessica Grimes
 2. Aengus Davies
 3. Chloe Laing
@@ -23,12 +21,6 @@ It is recommended to complete this assignment in a group of 2-4 students.
 
 
 # *General* project planning BEFORE iteration-1, (see chapters 1 and 2)
-
-Checklist: 
-1. github entry timestamp is BEFORE the iteration-1
-2. User stories are correct: see p39
-3. Must have more user stories than fits into iterations 1 and 2. To practice the priority.
-
 
 
 ### Iteration 1 [4 weeks, week 6-9], 28th August - 23rd September
