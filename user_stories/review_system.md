@@ -31,6 +31,9 @@ Initial static prototype design.
 ## Iteration 2
 ![image](/images/review_page_app.png)
 
+Final version
+<TODO: ADD IMAGE HERE>
+
 # Key features; 
 * 5 star rating system
 * Title to leave headline review
