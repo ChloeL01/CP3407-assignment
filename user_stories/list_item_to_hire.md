@@ -43,6 +43,7 @@ Initial layout developed. UI simplified for ease of use for the user, and mirror
 ![image](/images/hireoutdogimage.png)
 
 ## Iteration 2
-No major changes where implemented to the UI in this iternation. Further back-end development completed to connect to the Firebase Authentication, so that the current user could be tracked when listing a dog out to hire. 
+No major changes where implemented to the UI in this iternation. 
+Further back-end development was developed so that the application to connect to the Firebase Authentication, so that the current user could be tracked when listing a dog out to hire. 
 ![image](/images/hire_out_doggo_update.png)
 
