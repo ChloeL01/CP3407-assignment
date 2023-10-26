@@ -28,4 +28,4 @@ Description-v1: User can mark an item that they would like to rent in the future
 * --
 
 # Completed:
-* --
+Development has not started. 
