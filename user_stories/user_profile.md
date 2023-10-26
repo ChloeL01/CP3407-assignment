@@ -28,11 +28,22 @@ Description-v1: The user should be able to edit/update their profile
 8. Change payment details. Estimation 0 days.
 
 # UI Design:
+![image](/images/profile_page_mockup.png)
+![image](/images/change_email_mockup.png)
+![image](/images/change_password_mockup.png)
+![image](/images/change_profile_details.png)
+
 
 # Completed:
 
 ## Iteration 2
+
 ![image](/images/profile_page_app.png)
+![image](/images/change_email_app.png)
+
+
+![image](/images/change_password_page_app.png)
+![image](/images/change_payment_details_app.png)
 
 ## Key features
 * User can see their profile at on one page.
