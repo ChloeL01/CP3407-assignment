@@ -24,6 +24,7 @@ Description-v1: Users can share experiences with an item after they have hired i
 
 # UI Design:
 Initial static prototype design.
+
 ![image](images/review_doggo.png)
 
 # Completed:
