@@ -28,10 +28,14 @@ Description-v1: The user should be able to edit/update their profile
 8. Change payment details. Estimation 0 days.
 
 # UI Design:
-![image](/images/
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
 
+## Iteration 2
+![image](/images/profile_page_app.png)
+
+## Key features
+* User can see their profile at on one page.
+* Settings are on same page as the profile, so that the user can quickly and easily make changes to their profile details.
+* Under profile section, user can update their contact details.
+  * Error checking to ensure correct input is entered. 
