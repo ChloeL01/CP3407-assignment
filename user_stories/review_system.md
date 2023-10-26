@@ -18,19 +18,18 @@ Description-v1: Users can share experiences with an item after they have hired i
 
 ## Tasks, see chapter 4.
 
-1. UI with navigation from dog information page. 
-2. ...
+1. UI with navigation from dog information page. Estimation 1 day. 
+2. Database integration. Estimation 1 day.
 
 
 # UI Design:
 Initial static prototype design.
 
-![image](images/review_doggo.png)
+![image](/images/review_doggo.png)
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+## Iteration 2
+![image](/images/review_page_app.png)
 
 # Key features; 
 * 5 star rating system
