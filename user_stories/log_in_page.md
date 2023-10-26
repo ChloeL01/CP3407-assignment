@@ -37,4 +37,6 @@ Description-v1: The user can log in to save their details.
 # Key Features:
 * Covering of sensitive information (Hiding Password)
 * Link to Signup page
-* If you have logged in on the device previously it will automatically log you in and take you directly to the ome page ( unless you log out) 
+* If you have logged in on the device previously it will automatically log you in and take you directly to the ome page ( unless you log out)
+* Checks that fields have been filled in, if not the user is prompted to enter their details
+* COmpares inputted information against database to check if user exists 
