@@ -14,7 +14,7 @@
 * The rating option will always be present at the bottom of the item's information page.
 
 ## Description: 
-Description-v1: Users can share experiences with an item after they have hired it
+Description-v1: Users can share experiences with an item after they have hired it.
 
 ## Tasks, see chapter 4.
 
@@ -23,11 +23,15 @@ Description-v1: Users can share experiences with an item after they have hired i
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+Initial static prototype design.
+![image](images/review_doggo.png)
 
 # Completed:
 * (New, not in the textbook) 
 * Insert screenshots of completed. 
 * If you have multiple versions (changes between iteractions), show them all.
+
+# Key features; 
+* 5 star rating system
+* Title to leave headline review
+* Space for user to leave a detailed review
