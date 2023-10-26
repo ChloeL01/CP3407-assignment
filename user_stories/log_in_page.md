@@ -27,7 +27,14 @@ Description-v1: The user can log in to save their details.
 
 # Completed:
 * Iteration 1
+* 
 ![image](/images/login_finished.png)
 
 * Iteration 2
-  ![image](/images/Login_Page.png)
+* 
+![image](/images/Login_Page.png)
+
+# Key Features:
+* Covering of sensitive information (Hiding Password)
+* Link to Signup page
+* If you have logged in on the device previously it will automatically log you in and take you directly to the ome page ( unless you log out) 
