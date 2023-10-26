@@ -28,6 +28,8 @@ Description-v1: The user should be able to view a list of previously rented item
 * 
 ![image](/images/items_page_mockup.png)
 
+*This design was changed in the development process as the wishlist, currently hired and previously hired pages were split rather than being displayed on a single page 
+
 # Completed:
 * Iteration 2
 *
@@ -35,4 +37,6 @@ Description-v1: The user should be able to view a list of previously rented item
 
 # Key Features:
 * Displays Dog name, breed, start and end dates for hiring and an image of doggos a user has previously hired
-* Displays a message if no dogs have been hired 
+* Displays a message if no dogs have been hired
+* Links to page with more information about the doggo
+
