@@ -18,7 +18,7 @@ Description-v1: Users can share experiences with an item after they have hired i
 
 ## Tasks, see chapter 4.
 
-1. Task 1, Estimation XX days
+1. UI with navigation from dog information page. 
 2. ...
 
 
