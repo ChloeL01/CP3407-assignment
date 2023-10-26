@@ -28,6 +28,8 @@ Initial static prototype design.
 ![image](/images/review_doggo.png)
 
 # Completed:
+![image](/images/review_page_final.png)
+
 ## Iteration 2
 ![image](/images/review_page_app.png)
 
