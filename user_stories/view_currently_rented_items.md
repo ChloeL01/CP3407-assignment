@@ -28,6 +28,8 @@ Description-v1: The user should be able to view a list of current rented items
 * 
 ![image](/images/items_page_mockup.png)
 
+*This design was changed in the development process as the wishlist, currently hired and previously hired pages were split rather than being displayed on a single page 
+
 # Completed:
 * Iteration 2
 *
