@@ -12,15 +12,16 @@ Keep any other version here as well, e.g. Display current deals, Let user to cli
 * Keziah: 5 days
 * Jess: 5 days
 
-## Assumptions (if any):
+## Assumptions:
 
 *Is a page that collects data from the user and stores it. 
+*User can enter information and a picture of their dog that they want to list to hire out. 
 
 ## Description: e.g. The web page will show current deals to Orion's orbits users
 
 Description-v1: The user can choose to list an item that can be hired
 
-## Tasks, see chapter 4.
+## Tasks
 
 1. User interface, Estimation 2 days
 2. Database integration, Estimation 1 day
@@ -32,11 +33,10 @@ Description-v1: The user can choose to list an item that can be hired
 Low-fi version drawn on miro. Miro can be accessed from the link in the README.md <br /><br />
 ![image](/images/List_item_to_hire.png)
 
-
-
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed.
+Current UI for page. 
+
+![image](/images/hire_out_doggo_update.png)
 
 ## Iteration 1
 Initial layout developed. UI simplified for ease of use for the user, and mirrors similar layouts from exisiting AAA marketplace/rental applications. <br /><br />
@@ -47,3 +47,8 @@ No major changes where implemented to the UI in this iternation.
 Further back-end development was developed so that the application to connect to the Firebase Authentication, so that the current user could be tracked when listing a dog out to hire. 
 ![image](/images/hire_out_doggo_update.png)
 
+## Key features 
+* User can enter details about their furry friend.
+* Spinner selection to pick different breeds of dog.
+* User can choose how they would be preferred to be contacted.
+* Error checking so that user enters information in each field/selection.
