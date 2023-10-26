@@ -26,7 +26,6 @@ Description-v1: The user can log in to save their details.
 ![image](/images/log_in.png)
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
-
+* Iteration 1
+![image](/images/login_finished.png)
+* Iteration 2
