@@ -27,16 +27,18 @@ Description-v1: The user can log in to save their details.
 
 # Completed:
 * Iteration 1
-* 
+
 ![image](/images/login_finished.png)
 
 * Iteration 2
-* 
+
+During this iteration, the Login Page underwent major changes regarding logging using Firebase Authentication. Allowing for app to check if the user has logged into the app previously, if so they would be directly immediately to the homepage. If not then they would be required to log in.
+
 ![image](/images/Login_Page.png)
 
 # Key Features:
 * Covering of sensitive information (Hiding Password)
 * Link to Signup page
-* If you have logged in on the device previously it will automatically log you in and take you directly to the ome page ( unless you log out)
+* If you have logged in on the device previously it will automatically log you in and take you directly to the home page (unless you log out)
 * Checks that fields have been filled in, if not the user is prompted to enter their details
-* COmpares inputted information against database to check if user exists 
+* Compares inputted information against database to check if user exists 
