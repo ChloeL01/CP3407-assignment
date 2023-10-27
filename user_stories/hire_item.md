@@ -17,6 +17,7 @@ Keep any other version here as well, e.g. Display current deals, Let user to cli
 ## Description: e.g. The web page will show current deals to Orion's orbits users
 
 Description-v1: The user should be able to hire an item from another user
+Description-v1: A user should be able to hire a dog from another user
 
 ## Tasks, see chapter 4.
 
