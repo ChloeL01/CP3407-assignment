@@ -9,7 +9,8 @@
 * Keziah: 2 days
 * Jess: 3 days
 
-## Assumptions (if any):
+## Assumptions: 
+N/A
 
 ## Description:
 Description-v1: The user should be able to see what vehicles are available to rent and when they are and aren't available.
