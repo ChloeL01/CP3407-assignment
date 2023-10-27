@@ -15,7 +15,7 @@ It is very important for the user to be able to sign in to allow all of their da
 ## Description: 
 Description-v1: The user can log in to save their details.
 
-## Tasks, see chapter 4.
+## Tasks:
 
 1. User interface, Estimation 2 days
 2. Integration with database, Estimation 3 days
