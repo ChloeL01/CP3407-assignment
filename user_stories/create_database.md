@@ -21,7 +21,7 @@ Description-v1: Create a database to record users and user info
 
 Description-v2: Create a database to store information about users, and dogs listed for hire.
 
-## Tasks, see chapter 4.
+## Tasks:
 Initial tasks when using ROOM database
 1. User Data entry, Estimation 1 day
 2. User Data access object (DAO), Estimation 1 day
