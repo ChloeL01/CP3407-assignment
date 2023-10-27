@@ -2,7 +2,7 @@
 # CP3407-Assignment Team: J-A-C-K 
 
 This is the project assignment for CP3407 - team J-A-C-K. 
-* [App](https://github.com/ChloeL01/CP3407---Assignment) android project
+* [App](https://github.com/ChloeL01/CP3407---Assignment) Android app developed using Android Studio
 * [Miro board](https://miro.com/app/board/uXjVMvIweeY=/?share_link_id=43328664625) for brainstorming 
 * [Kanban board](https://github.com/users/ChloeL01/projects/1/views/1) for keeping track of progress NOTE: After initial planning stages the Kanban board was moved to Miro and displayed [here](./Kanban_board.md)
 
