@@ -25,8 +25,4 @@ Description-v1: User can mark an item that they would like to rent in the future
 4. Delete from wishlist. Estimation 1/2 day
 
 # UI Design:
-
 No UI Design currently developed.
-
-# Completed:
-Development has not started. 
