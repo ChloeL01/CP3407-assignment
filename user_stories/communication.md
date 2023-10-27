@@ -11,17 +11,7 @@
 * Jess:  8
 
 ## Assumptions:
-* --
+N/A
 
 ## Description: 
 Description-v1: The renter and the owner of the item should be able to communicate with each other
-
-## Tasks, see chapter 4.
-* --
-
-
-# UI Design:
-* --
-
-# Completed:
-* --
