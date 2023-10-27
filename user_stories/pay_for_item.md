@@ -5,7 +5,7 @@ This user story was removed later as it was essentially the same as [Pay Owner](
 
 ## Priority: 10 
 
-## Estimation: e.g. 2 days
+## Estimation:
 
 * Bob: 1 day (e.g. estimated before iteration-1)
 * Lisa: 2 days
