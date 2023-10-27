@@ -7,3 +7,6 @@ Progress updates were provided twice throughout the project where stakeholders w
 
 # User Tests
 
+![image](/images/User_testing_script.png)
+
+![image](/images/User_test_1.png)
