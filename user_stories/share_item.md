@@ -14,6 +14,7 @@
 ## Description: 
 
 Description-v1: The user should be able to share an item they have found (to external site)
+
 Description-v2: The user should be able to share a dog they have found to a friend (to external application)
 
 ## Tasks, see chapter 4.
