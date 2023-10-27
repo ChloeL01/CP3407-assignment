@@ -57,4 +57,7 @@ Update this at least once per week
 * 2 weeks left, 13 days
 * 1 weeks left,  5 days
 * 0 weeks left,  3 days
-* Actual Velocity: (19/25*3) = 0.25 (back to 3 developers) 
+* Actual Velocity: (19/25*3) = 0.25 (back to 3 developers)
+
+# Iteration Review
+![image](/images/iteration_2_review.png)
