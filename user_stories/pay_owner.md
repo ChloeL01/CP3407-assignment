@@ -10,16 +10,17 @@
 * Jess: 2 days
 
 ## Assumptions: 
+Secure systems in place so that card details are not saved and payment is delivered securely to the owner. 
 
 ## Description: 
 Description-v1: The user will be able to select how they will pay the owner on the website/app / Connect people to how they want to pay for item
 
 Description-v2: User should be able to pay for the dog they are going to be renting. The owner should recieve the payment prior to renting dates. 
 
-## Tasks, see chapter 4.
+## Tasks
 
-1. Task 1, Estimation XX days
-2. ...
+1. Develop UI. Estimation 1/2 day
+2. Navigate to another page. Estimation 0 days
 
 
 # UI Design:
