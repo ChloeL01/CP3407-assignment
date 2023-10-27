@@ -1,4 +1,4 @@
-# User story title: Communication
+# Communication
 
 **_NOTE: This user story was never implemented as it could not fit into either iteration 1 or 2. Although, it could be saved for a later iteration._**
 
