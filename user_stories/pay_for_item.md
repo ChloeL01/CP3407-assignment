@@ -1,5 +1,5 @@
 
-# User story title: Pay for item
+# Pay for item
 
 This user story was removed later as it was essentially the same as [Pay Owner](pay_owner.md)
 
