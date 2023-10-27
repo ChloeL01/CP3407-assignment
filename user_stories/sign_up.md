@@ -1,5 +1,5 @@
 
-# User story title: Sign up
+# Sign up
 
 ## Priority: 10 
 
@@ -10,6 +10,7 @@
 * Jess: 5 days
 
 ## Assumptions (if any):
+N/A
 
 ## Description: 
 Description-v1: The user should be able to create an account
@@ -21,16 +22,15 @@ Description-v1: The user should be able to create an account
 
 
 # UI Design:
-* Low-fi version drawn on miro. Miro can be accessed from the link in the README.md
+Low-fi version drawn on miro. Miro can be accessed from the link in the README.md
 
 ![image](/images/sign_up.png)
 
 # Completed:
-* Iteration 1
-
+## Iteration 1
 ![image](/images/signup_finished.png)
-* Iteration 2
-  
+
+## Iteration 2
 ![image](/images/Signup_Iteration2.png)
 
 # Key Features 
