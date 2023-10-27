@@ -10,17 +10,3 @@
 * Keziah: 3 days
 * Jess: 3 days
 
-## Assumptions (if any):
-
-## Description: e.g. The web page will show current deals to Orion's orbits users
-* --
-
-## Tasks, see chapter 4.
-* --
-
-
-# UI Design:
-* --
-
-# Completed:
-* --
