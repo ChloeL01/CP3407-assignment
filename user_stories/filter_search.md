@@ -19,7 +19,7 @@ Description-v1: User should be able to apply a filter to a search by factors inc
 
 Description-v2: User should be able to apply a filter to a display items that meet that filter
 
-## Tasks, see chapter 4.
+## Tasks:
 
 1. Update UI to display refined search, Estimation 1/2 day
 2. Drop down spinner for relevant filters, Estimation 1/2 day
