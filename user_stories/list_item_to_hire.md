@@ -17,7 +17,7 @@ Keep any other version here as well, e.g. Display current deals, Let user to cli
 *Is a page that collects data from the user and stores it. 
 *User can enter information and a picture of their dog that they want to list to hire out. 
 
-## Description: e.g. The web page will show current deals to Orion's orbits users
+## Description
 
 Description-v1: The user can choose to list an item that can be hired
 
