@@ -35,6 +35,7 @@ Low-fi version drawn on miro. Miro can be accessed from the link in the README.m
 
 # Completed:
 The user can select the dates that they wish to hire the dog for. The dates selected within the range. The user then proceeds to the payment section
+
 ![image](/images/select_dates.png)
 
 # Key features
