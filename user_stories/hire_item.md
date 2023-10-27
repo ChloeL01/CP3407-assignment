@@ -14,8 +14,7 @@ Keep any other version here as well, e.g. Display current deals, Let user to cli
 ## Assumptions:
 * Hiring an item is only the checking that it is available, changing it's status and connecting the person hiring the item with it's owner.
 
-## Description: e.g. The web page will show current deals to Orion's orbits users
-
+## Description
 Description-v1: The user should be able to hire an item from another user
 Description-v1: A user should be able to hire a dog from another user
 
