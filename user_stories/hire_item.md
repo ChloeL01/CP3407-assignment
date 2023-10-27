@@ -18,7 +18,7 @@ Keep any other version here as well, e.g. Display current deals, Let user to cli
 Description-v1: The user should be able to hire an item from another user
 Description-v1: A user should be able to hire a dog from another user
 
-## Tasks, see chapter 4.
+## Tasks:
 
 1. User interface, Estimation 1/2 day
 2. Mark item as hired, Estimation 1/2 day
