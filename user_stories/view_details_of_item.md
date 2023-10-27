@@ -35,3 +35,6 @@ Description-v1: The user can select an item from the search page and view detail
 * Iteration 2
 
 ![image](/images/updated_doggo_info_page.png)
+
+# Key features
+* User can preview all information about a selected dog. 
