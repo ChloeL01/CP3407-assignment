@@ -14,6 +14,7 @@
 ## Description: 
 
 Description-v1: The user should be able to share an item they have found (to external site)
+Description-v2: The user should be able to share a dog they have found to a friend (to external application)
 
 ## Tasks, see chapter 4.
 
@@ -31,3 +32,6 @@ The share button is located in the top right hand corner of a selected dog. It c
 ![image](/images/after_pressing_share.png)
 
 ![image](/images/share_result.png)
+
+# Key features: 
+* User can click and share key featurs of a dog.
