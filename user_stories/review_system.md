@@ -1,5 +1,5 @@
 
-# User story title: Review system
+# Review system
 
 ## Priority: 30
 
