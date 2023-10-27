@@ -15,8 +15,7 @@ N/A
 ## Description: 
 Description-v1: The user should be able to create an account
 
-## Tasks, see chapter 4.
-
+## Tasks
 1. User interface, Estimation 2 days
 2. Integration with database, Estimation 3 days
 
