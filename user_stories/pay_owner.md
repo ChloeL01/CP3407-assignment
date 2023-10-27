@@ -24,14 +24,17 @@ Description-v2: User should be able to pay for the dog they are going to be rent
 
 
 # UI Design:
+*  Low-fi version drawn on miro. Miro can be accessed from the link in the README.md
+
+![image]()
+*  
 * (New, not in the textbook) 
 * Many user stories are connected to a User interface.
 * Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+The user can then enter their payment details into the respective sections in order to complete the payment for the dog owner 
+![image](/images/pay_owner_final.png)
 
 # Key features
 * Error checking to ensure correct card details have been entered
