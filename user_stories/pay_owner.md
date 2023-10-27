@@ -30,3 +30,6 @@ Description-v1: The user will be able to select how they will pay the owner on t
 * Insert screenshots of completed. 
 * If you have multiple versions (changes between iteractions), show them all.
 
+# Key features
+* Error checking to ensure correct card details have been entered
+* User cannot proceed until correct details have been entered
