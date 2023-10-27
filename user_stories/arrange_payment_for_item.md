@@ -1,5 +1,5 @@
 
-# User story title: Arrange payment for item (dog) 
+# Arrange payment for item (dog) 
 Based on client feedback, this user story was phased out. 
 
 ## Priority: 10 
