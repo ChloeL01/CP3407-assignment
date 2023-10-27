@@ -18,7 +18,7 @@ Description-v1: The user should be able to search for a thing they wish to rent
 
 Description-v2: The user should be able to search for a dog that they wish to rent
 
-## Tasks, see chapter 4.
+## Tasks
 
 1. Database integration, Estimation 1 day
 2. Update UI to display refined search data, Estimation 1 day
