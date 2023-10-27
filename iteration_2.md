@@ -1,8 +1,5 @@
 # Actual iteration-2 board, (see chapters 3 and 4), 2nd October - 27th October [week 10-13]
 
-Checklist: 
-1. github entry timestamps
-2. User stories are correct: see p39
 
 * Assumed Velocity FROM iteration-1: 0.6 (higher than previously calculated as we are working with 4 developers now rather than 3)
 * Number of developers: 4
