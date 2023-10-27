@@ -34,9 +34,8 @@ Low-fi version drawn on miro. Miro can be accessed from the link in the README.m
 ![image](/images/hire_item.png)
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+The user can select the dates that they wish to hire the dog for. The dates selected within the range. The user then proceeds to the payment section
+![image](images/select_dates.png)
 
 # Key features
 * User can see when the hire availability of the dog
