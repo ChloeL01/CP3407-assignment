@@ -12,8 +12,7 @@
 * Jess: 3 days
 
 ## Assumptions (if any):
-* Will also include marking wishlisted items when they appear in the search page.
-* User can mark a dog to be added to the wishlist. 
+* Will also include marked wishlisted items when they appear in the search page.
 
 ## Description: 
 
