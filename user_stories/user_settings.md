@@ -1,5 +1,5 @@
 
-# User story title: User settings
+# User settings
 It was decided by the team during development in iteration 2 that Settings would be merged with Profile due to similarities. 
 
 [See User Profile](user_profile.md)
