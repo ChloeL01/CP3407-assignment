@@ -22,14 +22,15 @@ Description-v1: The user should be able to create an account
 
 # UI Design:
 * Low-fi version drawn on miro. Miro can be accessed from the link in the README.md
+
 ![image](/images/sign_up.png)
 
 # Completed:
 * Iteration 1
-*
+
 ![image](/images/signup_finished.png)
 * Iteration 2
-* 
+  
 ![image](/images/Signup_Iteration2.png)
 
 # Key Features 
