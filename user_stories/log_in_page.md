@@ -1,5 +1,5 @@
 
-# User story title: Login page
+# Login page
 
 ## Priority: 10 
 It is very important for the user to be able to sign in to allow all of their data to be collated under a single user profile.
