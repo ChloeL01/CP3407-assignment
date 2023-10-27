@@ -45,4 +45,7 @@ Update this at least once per week
 * 2 weeks left, 25 days
 * 1 weeks left, 17 days
 * 0 weeks left,  2 days (extra week with lecture recess)
-* Actual Velocity: ?? 
+* Actual Velocity: ??
+
+  # Iteration Review
+  ![image](/images/Iteration_review_1.png)
