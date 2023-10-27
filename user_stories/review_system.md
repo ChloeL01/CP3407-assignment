@@ -15,6 +15,7 @@
 
 ## Description: 
 Description-v1: Users can share experiences with an item after they have hired it.
+Description-v2: Users can rate and share experiences about a dog after they have hired it. 
 
 ## Tasks, see chapter 4.
 
