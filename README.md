@@ -7,11 +7,6 @@ This is the project assignment for CP3407 - team J-A-C-K.
 * [Kanban board](https://github.com/users/ChloeL01/projects/1/views/1) for keeping track of progress NOTE: After initial planning stages the Kanban board was moved to Miro and displayed [here](./Kanban_board.md)
 
 
-## How to submit [You may delete this before submitting]
-
-1. Download your github repository as a zip file and submit via LearnJCU.
-2. Add your instructor (JCU-Australia: jc138691@gmail.com Dmitry Konovalov) as a team member to view your project on github
-
 ## Team
 
 1. Jessica Grimes
