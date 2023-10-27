@@ -18,7 +18,7 @@
 Description-v1: User can mark an item that they would like to rent in the future to view on their profile page
 Description-v1: User can mark a dog that they would like to rent in the future to view on their profile page
 
-## Tasks, see chapter 4.
+## Tasks
 1. UI page. Estimation 1 day
 2. UI Button from dogs page. Estimation 1/2 day
 3. Database implementation. Estimation 1 day
