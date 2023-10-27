@@ -15,7 +15,7 @@
 
 Description-v1: Create basic prototype of overall design of app
 
-## Tasks, see chapter 4.
+## Tasks:
 
 1. Design rough prototype for each page, Estimation 5 days
 
