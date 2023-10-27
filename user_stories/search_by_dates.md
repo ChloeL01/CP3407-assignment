@@ -17,7 +17,7 @@ Description-v1: The user should be able to see what vehicles are available to re
 
 Description-v2: The user should be able to search by specific dates to find items within that range.
 
-## Tasks, see chapter 4.
+## Tasks
 
 1. UI - Display list of items that fall within range of the selected dates, Estimation 2 days
 
