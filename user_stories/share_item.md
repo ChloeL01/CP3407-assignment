@@ -18,7 +18,7 @@ Description-v1: The user should be able to share an item they have found (to ext
 
 Description-v2: The user should be able to share a dog they have found to a friend (to external application)
 
-## Tasks, see chapter 4.
+## Tasks
 
 1. Update UI and send message, Estimation 1 day
 
