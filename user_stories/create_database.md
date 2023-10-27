@@ -12,9 +12,11 @@ Keep any other version here as well, e.g. Display current deals, Let user to cli
 * Jess: 8 days
 
 ## Assumptions:
+Database will store sensitive information securely. 
+
+Authentication required when changing personal details. 
 
 ## Description:
-
 Description-v1: Create a database to record users and user info
 
 ## Tasks, see chapter 4.
