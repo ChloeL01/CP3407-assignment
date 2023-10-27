@@ -1,5 +1,5 @@
 
-# User story title: Pay owner
+# Pay owner
 
 ## Priority: 10 
 
