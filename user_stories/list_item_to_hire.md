@@ -1,5 +1,5 @@
 
-# User story title: List dog to hire
+# List dog to hire
 
 Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
 
