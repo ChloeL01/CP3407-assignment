@@ -1,8 +1,7 @@
 
-# User story title: User profile
+# User profile
 
 ## Priority: 20 
-
 
 ## Estimation: 2 days
 
@@ -10,13 +9,14 @@
 * Keziah: 2 days
 * Jess: 2 days
 
-## Assumptions (if any):
+## Assumptions:
+N/A
 
 ## Description: 
 
 Description-v1: The user should be able to edit/update their profile
 
-## Tasks, see chapter 4.
+## Tasks
 
 1. Database integration. Estimation 1 day
 2. Profile/Settings. Estimation 1/2 day
