@@ -1,5 +1,5 @@
 
-# User story title: View previous rented items
+# View previous rented items
 
 
 ## Priority: 40
@@ -10,10 +10,12 @@
 * Keziah: 3 days
 * Jess: 3 days
 
-## Assumptions (if any):
+## Assumptions:
+N/A
 
 ## Description: 
 Description-v1: The user should be able to view a list of previously rented items
+Description-v2: The user should be able to view a list of previously rented dogs
 
 ## Tasks, see chapter 4.
 
