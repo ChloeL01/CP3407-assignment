@@ -1,5 +1,5 @@
 
-# User story title: View details of item
+# View details of item
 
 ## Priority: 20 
 
@@ -9,14 +9,13 @@
 * Keziah: 3 days
 * Jess: 2 days
 
-
-## Assumptions (if any):
+## Assumptions:
+N/A
 
 ## Description: 
-
 Description-v1: The user can select an item from the search page and view details specific to that item including previous users reviews.
 
-## Tasks, see chapter 4.
+## Tasks
 
 1. User interface - item image, Estimation 1 day
 2. User interface - item description and reviews, Estimation 1 day
@@ -28,12 +27,12 @@ Description-v1: The user can select an item from the search page and view detail
 ![image](/images/View_item_details.png)
 
 # Completed:
-* Iteration 1
+![image](/images/updated_doggo_info_page.png)
 
+## Iteration 1
 ![image](/images/view_item_details_finished.png)
 
-* Iteration 2
-
+## Iteration 2
 ![image](/images/updated_doggo_info_page.png)
 
 # Key features
