@@ -36,3 +36,6 @@ Description-v1: The user should be able to hire an item from another user
 * Insert screenshots of completed. 
 * If you have multiple versions (changes between iteractions), show them all.
 
+# Key features
+* User can see when the hire availability of the dog
+* User can choose dates that they want to hire the dog
