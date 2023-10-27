@@ -13,6 +13,7 @@ It was decided by the team during development in iteration 2 that Settings would
 * Jess: 2 days
 
 ## Assumptions:
+N/A
 
 ## Description: 
 
