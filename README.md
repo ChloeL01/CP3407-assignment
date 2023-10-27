@@ -16,7 +16,7 @@ This is the project assignment for CP3407 - team J-A-C-K.
 4. Keziah Furnell
 
 
-# *General* project planning BEFORE iteration-1, (see chapters 1 and 2)
+# *General* project planning BEFORE iteration-1
 
 
 ### Iteration 1 [4 weeks, week 6-9], 28th August - 23rd September
