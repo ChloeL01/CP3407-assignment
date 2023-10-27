@@ -1,5 +1,5 @@
 
-# User story title: Landing/Home Page
+# User story: Landing/Home Page
 
 ## Priority: 10 
 
