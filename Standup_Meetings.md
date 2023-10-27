@@ -1,6 +1,6 @@
 ## Standup Meetings
 
-#Iteration 1
+# Iteration 1
 * ![image](/images/SUM1.png)
 * ![image](/images/SUM2.png)
 * ![image](/images/SUM3.png)
