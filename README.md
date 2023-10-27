@@ -41,8 +41,7 @@ Total: 35 days
 5. [View previously rented items](./user_stories/view_previously_rented_items.md), priority 40, 3 days 
 6. [Current rented items](./user_stories/view_currently_rented_items.md), priority 30, 1 day
 7. [Pay owner](./user_stories/pay_for_item.md), priority 10, 2 days
-~~
-8. [Accessibility hire option](./user_stories/accessibility_hire_options.md), priority 20, 2 days~~ -not needed anymore
+8. ~~[Accessibility hire option](./user_stories/accessibility_hire_options.md), priority 20, 2 days~~ -not needed anymore
 9. [User profile](./user_stories/user_profile.md), priority 20, 2 days 
 10. [Wishlist](./user_stories/wishlist.md), priority 40, 3 days 
 11. [Share item](./user_stories/share_item.md), priority 50, 1 day
