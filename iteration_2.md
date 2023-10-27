@@ -31,7 +31,7 @@ In progress:
 * Task-6 (KF), 13/10/23
 * Task-7 (AD), 18/10/23
 * Task-9 (JG), 1/10/23
-* Task-10 (JG), --
+* Task-10 (JG), Overflow to next iteration
 * Task-11 (CL), 23/10/23
 * Task-12 (JG), 14/10/23
 * Task-13 (AD), (overflow from Iteration 1) 
