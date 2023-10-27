@@ -21,6 +21,16 @@
 * share item
 * sign up (guest?)
 
+# Assigning Priorities to User Stories
+* ![image](/images/Priorities.png)
+
+ # Planning Poker
+ * Planning Poker was played in week 4 with results recorded in the individual user story pages
+
+# Unused User Stories
+* ![image](/images/unused_user_stories.png)
+  
+
 # Initial Breakdown of User Stories into Iterations
 * ![image](/images/Iteration_planning.png)
 
