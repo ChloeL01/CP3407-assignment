@@ -15,6 +15,7 @@ N/A
 ## Description: 
 
 Description-v1: The user should be able to search for a thing they wish to rent
+
 Description-v2: The user should be able to search for a dog that they wish to rent
 
 ## Tasks, see chapter 4.
