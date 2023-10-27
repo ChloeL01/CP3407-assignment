@@ -1,5 +1,5 @@
 
-# User story title: Prototype
+# Prototype
 
 ## Priority: 10 
 
