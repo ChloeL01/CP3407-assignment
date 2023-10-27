@@ -1,5 +1,5 @@
 
-# User story title: Share item
+# Share item
 
 ## Priority: 50
 
@@ -9,7 +9,8 @@
 * Keziah: 2 days
 * Jess: 1/2 day
 
-## Assumptions (if any):
+## Assumptions:
+N/A
 
 ## Description: 
 
