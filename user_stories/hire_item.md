@@ -29,7 +29,8 @@ Description-v1: A user should be able to hire a dog from another user
 
 
 # UI Design:
-* Low-fi version drawn on miro. Miro can be accessed from the link in the README.md
+Low-fi version drawn on miro. Miro can be accessed from the link in the README.md
+
 ![image](/images/hire_item.png)
 
 # Completed:
