@@ -58,7 +58,7 @@ Total: 26 days
 3. [User settings](./user_stories/user_settings.md), priority 50, 2 days
 4. [Communication](./user_stories/communication.md), priority 30, 8 days
 
-Total: 6 days
+Total: 14 days
 
 ### Not enough time/developers for Iteration 2:
 1. [Wishlist](./user_stories/wishlist.md), priority 40, 3 days 
