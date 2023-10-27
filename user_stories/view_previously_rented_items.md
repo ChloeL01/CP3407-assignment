@@ -17,7 +17,7 @@ N/A
 Description-v1: The user should be able to view a list of previously rented items
 Description-v2: The user should be able to view a list of previously rented dogs
 
-## Tasks, see chapter 4.
+## Tasks
 
 1. View Details (UI), Estimation 1 day
 2. Database Implementation, Estimation 1 Day
