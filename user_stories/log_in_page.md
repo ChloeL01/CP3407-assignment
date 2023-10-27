@@ -22,15 +22,15 @@ Description-v1: The user can log in to save their details.
 
 
 # UI Design:
-* Low-fi version drawn on miro. Miro can be accessed from the link in the README.md
+Low-fi version drawn on miro. Miro can be accessed from the link in the README.md
+
 ![image](/images/log_in.png)
 
 # Completed:
-* Iteration 1
 
+## Iteration 1
 ![image](/images/login_finished.png)
-
-* Iteration 2
+## Iteration 2
 
 During this iteration, the Login Page underwent major changes regarding logging using Firebase Authentication. Allowing for app to check if the user has logged into the app previously, if so they would be directly immediately to the homepage. If not then they would be required to log in.
 
