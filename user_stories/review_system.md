@@ -17,7 +17,7 @@
 Description-v1: Users can share experiences with an item after they have hired it.
 Description-v2: Users can rate and share experiences about a dog after they have hired it. 
 
-## Tasks, see chapter 4.
+## Tasks
 
 1. UI with navigation from dog information page. Estimation 1 day. 
 2. Database integration. Estimation 1 day.
