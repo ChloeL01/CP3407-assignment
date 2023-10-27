@@ -35,3 +35,8 @@ Description-v1: A user needs to navigate to different pages
 
 ![image](/images/home_page_updated.png) 
 
+# Key Features
+* User can view all dogs available to be hired.
+* User can search for a dog by their name.
+* User can search for a dog by date available.
+* Provides at a glance information

@@ -14,20 +14,32 @@
 * The rating option will always be present at the bottom of the item's information page.
 
 ## Description: 
-Description-v1: Users can share experiences with an item after they have hired it
+Description-v1: Users can share experiences with an item after they have hired it.
 
 ## Tasks, see chapter 4.
 
-1. Task 1, Estimation XX days
-2. ...
+1. UI with navigation from dog information page. Estimation 1 day. 
+2. Database integration. Estimation 1 day.
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+Initial static prototype design.
+
+![image](/images/review_doggo.png)
+
+# Research on Review Page
+
+* Amazon just lets you write a review regardless if you bought something or not.
+
+* Future development -> have it for when after dog has been returned after hiring out.
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+![image](/images/review_page_final.png)
+
+## Iteration 2
+![image](/images/review_page_app.png)
+
+# Key features; 
+* 5 star rating system
+* Title to leave headline review
+* Space for user to leave a detailed review

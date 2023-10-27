@@ -25,7 +25,17 @@ Description-v1: The user should be able to create an account
 ![image](/images/sign_up.png)
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+* Iteration 1
+*
+![image](/images/signup_finished.png)
+* Iteration 2
+* 
+![image](/images/Signup_Iteration2.png)
 
+# Key Features 
+* Link back to Login page
+* Hiding of password (covering sensitive information)
+* Checks entered password and phone number to ensure they are valid/ meet relevant criteria
+* Checks if user already exists and provides user with relevant feedback
+* ensures all fields have been filled in and if not prompts the user to do so
+* Adds user to database and directs to home page

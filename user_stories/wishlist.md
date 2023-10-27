@@ -12,18 +12,21 @@
 * Jess: 3 days
 
 ## Assumptions (if any):
-* Will also include marking wishlisted items when they appear in the search page.
+* Will also include marked wishlisted items when they appear in the search page.
 
 ## Description: 
 
 Description-v1: User can mark an item that they would like to rent in the future to view on their profile page
 
 ## Tasks, see chapter 4.
-* --
-
+1. UI page. Estimation 1 day
+2. UI Button from dogs page. Estimation 1/2 day
+3. Database implementation. Estimation 1 day
+4. Delete from wishlist. Estimation 1/2 day
 
 # UI Design:
-* --
+
+No UI Design currently developed.
 
 # Completed:
-* --
+Development has not started. 
