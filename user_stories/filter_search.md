@@ -1,5 +1,5 @@
 
-# User story title: Filter search
+# Filter search
 
 
 ## Priority: 30
