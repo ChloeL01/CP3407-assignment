@@ -35,3 +35,7 @@ Press on searchbar to bring up keyboard -> Display results if the dog's name, br
 ![image](/images/search_bar_keyboard.png)
 
 ![image](/images/after_searching.png)
+
+
+# Key features
+* User an search the dogs name
