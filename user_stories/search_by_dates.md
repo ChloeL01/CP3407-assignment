@@ -1,5 +1,5 @@
 
-# User story title: Search by dates
+# Search by dates
 
 ## Priority: 20 
 
