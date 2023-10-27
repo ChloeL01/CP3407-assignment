@@ -4,7 +4,7 @@ Checklist:
 1. github entry timestamps
 2. User stories are correct: see p39
 
-* Assumed Velocity FROM iteration-1: 0.6
+* Assumed Velocity FROM iteration-1: 0.6 (higher than previously calculated as we are working with 4 developers now rather than 3)
 * Number of developers: 4
 * Total estimated amount of work: 48 days
 
@@ -60,4 +60,4 @@ Update this at least once per week
 * 2 weeks left, 13 days
 * 1 weeks left,  5 days
 * 0 weeks left,  3 days
-* Actual Velocity: ?? 
+* Actual Velocity: (19/25*3) = 0.25 (back to 3 developers) 
