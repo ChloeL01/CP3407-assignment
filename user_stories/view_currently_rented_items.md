@@ -1,6 +1,5 @@
 
-# User story title: View currently rented items
-
+# View currently rented items
 
 ## Priority: 30 
 
@@ -10,11 +9,12 @@
 * Keziah: 1 day
 * Jess: 1 day
 
-## Assumptions (if any):
+## Assumptions:
+N/A
 
 ## Description: 
-
 Description-v1: The user should be able to view a list of current rented items
+Description-v2: The user should be able to view a list of currently rented dogs
 
 ## Tasks, see chapter 4.
 
@@ -24,15 +24,14 @@ Description-v1: The user should be able to view a list of current rented items
 
 
 # UI Design:
-* Low-fi version drawn on miro. Miro can be accessed from the link in the README.md
-* 
+Low-fi version drawn on miro. Miro can be accessed from the link in the README.md
+
 ![image](/images/items_page_mockup.png)
 
-*This design was changed in the development process as the wishlist, currently hired and previously hired pages were split rather than being displayed on a single page 
+This design was changed in the development process as the wishlist, currently hired and previously hired pages were split rather than being displayed on a single page 
 
 # Completed:
-* Iteration 2
-*
+## Iteration 2
 ![image](/images/currently_hired_finished.png)
 
 # Key Features:
