@@ -34,3 +34,5 @@ The user can press on the "select date" button after using the search bar. A dat
 
 ![image](/images/after_selecting_dates.png)
 
+# Key features
+* User can search by dates to view all dogs available within that time frame
