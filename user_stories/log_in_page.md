@@ -27,6 +27,7 @@ Low-fi version drawn on miro. Miro can be accessed from the link in the README.m
 ![image](/images/log_in.png)
 
 # Completed:
+![image](/images/Login_Page.png)
 
 ## Iteration 1
 ![image](/images/login_finished.png)
