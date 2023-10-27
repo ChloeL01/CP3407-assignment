@@ -1,5 +1,5 @@
 
-# User story title: Search for thing
+# Search for thing
 
 ## Priority: 20 
 
@@ -10,10 +10,12 @@
 * Jess: 3 days
 
 ## Assumptions:
+N/A
 
 ## Description: 
 
 Description-v1: The user should be able to search for a thing they wish to rent
+Description-v2: The user should be able to search for a dog that they wish to rent
 
 ## Tasks, see chapter 4.
 
