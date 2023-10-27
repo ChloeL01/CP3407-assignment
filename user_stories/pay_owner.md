@@ -14,6 +14,8 @@
 ## Description: 
 Description-v1: The user will be able to select how they will pay the owner on the website/app / Connect people to how they want to pay for item
 
+Description-v2: User should be able to pay for the dog they are going to be renting. The owner should recieve the payment prior to renting dates. 
+
 ## Tasks, see chapter 4.
 
 1. Task 1, Estimation XX days
