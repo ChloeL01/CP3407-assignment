@@ -33,6 +33,6 @@ Description-v1: The user should be able to pay for the item they are renting / t
 * Insert screenshots of completed. 
 * If you have multiple versions (changes between iteractions), show them all.
 
-# Key featurs
+# Key features
 * Error checking to ensure correct card details have been entered
 * User cannot proceed until correct details have been entered
