@@ -25,14 +25,14 @@ Description-v1: The user should be able to view a list of previously rented item
 
 # UI Design:
 * Low-fi version drawn on miro. Miro can be accessed from the link in the README.md
-* 
+  
 ![image](/images/items_page_mockup.png)
 
 *This design was changed in the development process as the wishlist, currently hired and previously hired pages were split rather than being displayed on a single page 
 
 # Completed:
 * Iteration 2
-*
+
 ![image](/images/previously_hired_finished.png)
 
 # Key Features:
