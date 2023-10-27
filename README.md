@@ -4,7 +4,7 @@
 This is the project assignment for CP3407 - team J-A-C-K. 
 * [App](https://github.com/ChloeL01/CP3407---Assignment) android project
 * [Miro board](https://miro.com/app/board/uXjVMvIweeY=/?share_link_id=43328664625) for brainstorming 
-* [Kanban board](https://github.com/users/ChloeL01/projects/1/views/1) for keeping track of progress
+* [Kanban board](https://github.com/users/ChloeL01/projects/1/views/1) for keeping track of progress NOTE: After initial planning stages the Kanban board was moved to Miro and displayed [here](./Kanban_board.md)
 
 
 ## How to submit [You may delete this before submitting]
