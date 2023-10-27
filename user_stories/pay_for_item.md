@@ -13,6 +13,6 @@ This user story was removed later as it was essentially the same as [Pay Owner](
 
 ## Assumptions (if any):
 
-## Description: e.g. The web page will show current deals to Orion's orbits users
+## Description
 
 Description-v1: The user should be able to pay for the item they are renting / the renter should receive the payment
