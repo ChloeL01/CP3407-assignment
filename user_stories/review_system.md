@@ -27,6 +27,12 @@ Initial static prototype design.
 
 ![image](/images/review_doggo.png)
 
+# Research on Review Page
+
+* Amazon just lets you write a review regardless if you bought something or not.
+
+* Future development -> have it for when after dog has been returned after hiring out.
+
 # Completed:
 ![image](/images/review_page_final.png)
 
