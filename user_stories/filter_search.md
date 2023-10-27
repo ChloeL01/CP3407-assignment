@@ -31,3 +31,8 @@ Description-v2: User should be able to apply a filter to a display items that me
 # Completed:
 
 ![image](/images/filter_search_finish.png) 
+
+# Key features
+* User can sort search by price (low to high)
+* User can sort search by breed (alphabetically or reverse alphabetically)
+* User can sort search by popularity
